@@ -13,9 +13,9 @@ import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER13213131',
+  title: '羅傑說你是2687',
   subtitle: '隨機之神請顯靈',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  description: '',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
@@ -24,7 +24,7 @@ export const siteConfig: Site.Config = {
     name: '哭啊，上路又又被康特啦',
     status: '哭',
     statusTip:
-      '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+      '',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -34,7 +34,7 @@ export const siteConfig: Site.Config = {
     website: 'https://github.com/kwchang0831/svelte-QWER',
     github: 'https://github.com/Ku-AA-stanley',
     // email: 'contact@kwchang0831.dev',
-    bio: `天靈靈地靈靈隨機之神快顯靈<br/>爸爸我好冷`,
+    bio: `天靈靈地靈靈隨機之神快顯靈`,
   },
 };
 
@@ -113,12 +113,12 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
   },
   {
     name: 'Google ',
-    url: 'https://docs-svelte-qwer.vercel.app/',
+    url: 'https://www.google.com',
     rel: 'external',
   },
   {
-    name: 'Get QWER 🚀',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
+    name: '空白欄位',
+    url: '',
     rel: 'external',
   },
 ];

@@ -10,4 +10,6 @@ options:
 ### 上課筆記
 
 
-![alt text](image.png)
+
+
+![alt text](/about/rainbow.png)
