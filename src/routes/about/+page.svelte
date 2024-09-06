@@ -12,6 +12,6 @@
 <Post>
   <article slot="post_content">
     <h3 id="shang4-ke4-bi3-ji4"><a href="#shang4-ke4-bi3-ji4">上課筆記</a></h3>
-    <p><ImgZoom src="/about/rainbow.png" alt="alt text"></ImgZoom></p>
+    <p><ImgZoom src="/about/dude.png" alt="alt text"></ImgZoom></p>
   </article>
 </Post>

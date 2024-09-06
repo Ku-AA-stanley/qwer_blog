@@ -112,13 +112,13 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
-    name: 'Google ',
-    url: 'https://www.google.com',
+    name: 'See Docs 📄',
+    url: 'https://docs-svelte-qwer.vercel.app/',
     rel: 'external',
   },
   {
-    name: '空白欄位',
-    url: '',
+    name: 'Get QWER 🚀',
+    url: 'https://github.com/kwchang0831/svelte-QWER',
     rel: 'external',
   },
 ];

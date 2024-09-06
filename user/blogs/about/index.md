@@ -12,4 +12,4 @@ options:
 
 
 
-![alt text](/about/rainbow.png)
+![alt text](/about/dude.png)
